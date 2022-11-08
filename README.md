@@ -1,7 +1,7 @@
 # JS-countdown-timer
 
 This script works with this tag:
-<span>
+<strong>
 <div id="timer">
 	<span class="hours">00</span>
 	<span>:</span>
@@ -9,4 +9,4 @@ This script works with this tag:
 	<span>:</span>
 	<span class="seconds">00</span>
 </div>
-</span>
+</strong>
