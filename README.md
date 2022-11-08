@@ -8,5 +8,5 @@ This script works with this tag:
 		<span class="minutes">00</span>
 		<span>:</span>
 		<span class="seconds">00</span>
-	</div>
+	 </div>
 
